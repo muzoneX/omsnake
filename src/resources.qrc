@@ -1,0 +1,1 @@
+<RCC><qresource prefix="/"><file>Main.qml</file><file alias="omsnake.svg">../share/omsnake.svg</file><file>i18n/en.json</file><file>i18n/da.json</file><file>i18n/ar.json</file></qresource></RCC>

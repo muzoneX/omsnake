@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Omsnake
+Name[da]=Omsnake
+Name[ar]=Omsnake
+Comment=A modern Snake game with a growing challenge
+Comment[da]=Et moderne slangespil med stigende udfordring
+Comment[ar]=لعبة ثعبان حديثة مع تحديات متزايدة
+Exec=omsnake
+Icon=omsnake
+Terminal=false
+Categories=Game;ArcadeGame;
+Keywords=snake;arcade;game;
+StartupWMClass=omsnake
